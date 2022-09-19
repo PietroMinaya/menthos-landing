@@ -1,0 +1,15 @@
+.buttonBlack {
+    color: white;
+    background-color: black;
+    padding: 9px 24px;
+}
+
+.buttonPurple {
+    color: white;
+    background-color: #7E57C2;
+    padding: 9px 24px;
+}
+
+strong {
+    color: #7E57C2;
+}
